@@ -1,3 +1,3 @@
 # remote_repo
 test Repo
-Demo insights development 1
+Demo insights development 0.1
